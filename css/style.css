@@ -1,0 +1,39 @@
+.navbar {
+  width: 100%;
+  border-bottom: solid 2px white;
+  z-index: 99;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+#home {
+  height: 107vh;
+  background-image: url(../image/hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 240px;
+  border-bottom: solid 2px wheat;
+}
+
+#about .fs-5 {
+  text-align: justify;
+}
+
+#produk {
+  min-height: 100vh;
+  padding-top: 90px;
+}
+
+#message {
+  padding-top: 100px;
+}
+
+.lead {
+  filter: drop-shadow(2px 2px black);
+}
+
+#testimoni {
+  padding-top:100px;
+}
